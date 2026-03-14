@@ -4,4 +4,4 @@ Built dashboards highlighting GDP growth, regional comparisons, and correlations
 
 
 ## DASHBOARD
-![Screenshot] (https://github.com/Archie-GIT/Economic-Indicator-Project/blob/main/Global%20Economic%20Overview.png)
+![Screenshot](https://github.com/Archie-GIT/Economic-Indicator-Project/blob/main/Global%20Economic%20Overview.png)
